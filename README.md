@@ -1,3 +1,3 @@
 # zip-downloaden
 
-[Hier](./datei.zip) ⬅️ kannst du die Datei runterladen.
+<a href="./datei.zip" download>Hier</a> ⬅️ kannst du die Datei runterladen.
